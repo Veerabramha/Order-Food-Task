@@ -401,12 +401,12 @@ body {
     .burger-card,
     .pizza-card,
     .pasta-card {
-        height: 400px;
         width: 300px;
     }
 
+    .burger-card-name,
     .burger-card-detail {
-        font-size: 15px;
+        font-size: 25px;
     }
 
     .order-btn {
@@ -415,7 +415,6 @@ body {
         margin-top: 50px;
     }
 }
-
 
 
 @media (min-width: 1200px) {
@@ -476,4 +475,3 @@ body {
         margin-top: 50px;
     }
 }
-
